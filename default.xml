@@ -1,0 +1,7 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<manifest>
+    <remote name="github" fetch="https://github.com/"></remote>
+    <default revision="refs/heads/master" remote="github" sync-j="4"></default>
+        <project name="zyxel-lisalian/repo_common.git" remote="github" path="common"></project>
+        <project name="zyxel-lisalian/repo_tiger.git" remote="github" path="."></project>
+</manifest>
