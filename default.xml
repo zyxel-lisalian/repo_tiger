@@ -2,6 +2,6 @@
 <manifest>
     <remote name="github" fetch="https://github.com/"></remote>
     <default revision="refs/heads/master" remote="github" sync-j="4"></default>
-        <project name="zyxel-lisalian/repo_common.git" remote="github" path="common"></project>
-        <project name="zyxel-lisalian/repo_tiger.git" remote="github" path="."></project>
+    <project name="zyxel-lisalian/repo_common.git" remote="github" path="secu/common"></project>
+    <project name="zyxel-lisalian/repo_lion.git" remote="github" path="secu/"></project>
 </manifest>
